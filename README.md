@@ -1,0 +1,2 @@
+# Macapayag_InventoryManagementSystem_1
+kitomacapayagcoc-design/Macapayag_BasicInventoryManagementSystem_1
